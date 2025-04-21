@@ -10,7 +10,7 @@ Hi, I'm Trương Công Đức, a passionate Web Developer with expertise in buil
   #### Proficient
   
   - Languages: JavaScript, PHP
-  - Frameworks: ReactJS, Angular, Node.js, Laravel, Nestjs
+  - Frameworks: ReactJS, Angular, Node.js, Laravel, Nestjs, Vue.js, nuxt.jx
   - Databases: MySQL, MongoDB
   - Libraries/Tools: TailwindCSS, Material UI, Axios, Redux, React Query, Socket.IO
   - Back-end: RESTful APIs, Apollo Client, GraphQL
