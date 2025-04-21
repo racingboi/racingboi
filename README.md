@@ -1,8 +1,8 @@
 # TRƯƠNG CÔNG ĐỨC - Web Developer
 Hi, I'm Trương Công Đức, a passionate Web Developer with expertise in building dynamic and responsive web applications. I specialize in front-end development with ReactJS and back-end services using Laravel and ExpressJS. Always eager to learn new technologies, I thrive in collaborative environments and am committed to delivering high-quality solutions.
-📧 Email: truongcongduc2004@gmail.com
-📱 Phone/Zalo: +84 706 252 156
-🌐 Facebook: [facebook.com/duc](https://www.facebook.com/profile.php?id=100052963698787)
+-📧 Email: truongcongduc2004@gmail.com
+-📱 Phone/Zalo: +84 706 252 156
+-🌐 Facebook: [facebook.com/duc](https://www.facebook.com/profile.php?id=100052963698787)
 
 
 
