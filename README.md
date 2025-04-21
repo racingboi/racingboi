@@ -25,6 +25,8 @@ Hi, I'm Trương Công Đức, a passionate Web Developer with expertise in buil
 - Diploma in Information Technology
 - 2022 - 2024
 
+## 📂 Featured Projects
+
 ## 🌟 About Me
 I’m passionate about coding, problem-solving, and creating user-friendly applications. My goal is to contribute to innovative projects while continuously growing as a developer. Feel free to connect with me for collaboration or opportunities!
 
